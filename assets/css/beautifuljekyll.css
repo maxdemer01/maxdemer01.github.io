@@ -738,6 +738,26 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     font-size: 0.875rem;
   }
 }
+.nav-link:hover {
+  opacity: 1;
+}
+
+.nav-link::before {
+  transition: 300ms;
+  height: 5px;
+  content: "";
+  position: absolute;
+  background-color: #031D44;
+}
+
+.nav-link-ltr::before {
+  width: 0%;
+  bottom: 10px;
+}
+
+.nav-link-ltr:hover::before {
+  width: 100%;
+}
 
 .header-section.has-img .no-img {
   margin-top: 0;
