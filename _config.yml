@@ -49,7 +49,6 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-<<<<<<< HEAD
 #  email: "example@example.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
@@ -57,7 +56,6 @@ social-network-links:
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
-=======
  # email: "someone@example.com"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
@@ -65,7 +63,6 @@ social-network-links:
 #  twitter: daattali
  # patreon: DeanAttali
  # youtube: c/daattali
->>>>>>> d0471cb90ec7753d977114391923cb3a1b72ffc4
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -78,11 +75,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-<<<<<<< HEAD
   telegram: iconrom
-=======
-   telegram: iconrom
->>>>>>> d0471cb90ec7753d977114391923cb3a1b72ffc4
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
