@@ -38,7 +38,14 @@ layout: base
           {% endfor %}
         </div>
       {% endif %}
-
+      <script id="diffblog-plugin-script" async="false" src="https://diff.blog/static/js/diffblog_plugin_v1.js"></script> 
+      <script>
+              document.getElementById("diffblog-plugin-script").addEventListener("load", function () {
+                  DiffBlog(
+                      "w4zv2o3lo32o6to5mgdrphhj6g8b9yqt408csjqmsbgv0ri4tm"
+                  );
+              });
+      </script>
       <article role="main" class="blog-post">
         {{ content }}
       </article>

@@ -5,6 +5,7 @@ subtitle: A web page to improve your mathematical problem solving using programm
 tags: [maths,programming]
 thumbnail-img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Leonhard_Euler_2.jpg/200px-Leonhard_Euler_2.jpg"
 comments: true
+social-share: true
 ---
 
 Today I am going to talk about [Project Euler](https://projecteuler.net), a website where we will find hundreds of mathematical problems of varying difficulty that we will have to solve by designing algorithms and programs in our favorite programming language. 
@@ -58,7 +59,7 @@ foo(3)
 
 And here is the same code with syntax highlighting:
 
-```javascript
+```js
 var foo = function(x) {
   return(x + 5);
 }
