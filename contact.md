@@ -6,7 +6,7 @@ layout: page
 
 <div class="container">
   <h1>FormSubmit Demo</h1>
-  <form target="_blank" action="https://formsubmit.co/contactomaxdemer01@gmail.com" method="POST">
+  <form target="_blank" action="https://formsubmit.co/29a3b05b7bde654a6e5d5100857cf797" method="POST">
     <div class="form-group">
       <div class="form-row">
         <div class="col">
