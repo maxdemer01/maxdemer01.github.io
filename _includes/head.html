@@ -37,11 +37,12 @@
 
   {% if site.keywords %}
   <meta name="keywords" content="{{ site.keywords }}">
-  {% endif %}
+  {% endif %}y
 
   {% if site.rss-description %}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
   {% endif %}
+  <link rel="icon" type="image/png" href="favicon-32x32.png">
 
   {% include gtag.html %}
   {% include gtm_head.html %}
