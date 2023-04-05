@@ -4,17 +4,22 @@ subtitle: Please follow th instructions
 layout: page
 ---
 
-<form class="border border-light p-5" action="https://formspree.io/f/mqkoyool"
-  method="POST">
-
-    <p class="h4 mb-4 text-center">Contact us</p>
-
-
-    <input type="text" id="defaultContactFormName" class="form-control mb-4" placeholder="Name">
-
-    <input type="email" id="defaultContactFormEmail" class="form-control mb-4" placeholder="E-mail">
-
-    <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder="Message"></textarea>
-
-    <button class="btn btn-info btn-block" type="submit">Send</button>
-</form>
+<div class="container">
+  <h1>FormSubmit Demo</h1>
+  <form target="_blank" action="https://formsubmit.co/contactomaxdemer01@gmail.com" method="POST">
+    <div class="form-group">
+      <div class="form-row">
+        <div class="col">
+          <input type="text" name="name" class="form-control" placeholder="Full Name" required>
+        </div>
+        <div class="col">
+          <input type="email" name="email" class="form-control" placeholder="Email Address" required>
+        </div>
+      </div>
+    </div>
+    <div class="form-group">
+      <textarea placeholder="Your Message" class="form-control" name="message" rows="10" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-lg btn-dark btn-block">Submit Form</button>
+  </form>
+</div>
