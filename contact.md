@@ -24,19 +24,5 @@ layout: page
     
   </form>
 </div>
-<script>
-  document.getElementById("mi-formulario").addEventListener("submit", function() {
-    // Obtén todos los elementos del formulario
-    var elementosForm = this.elements;
-    
-    // Recorre todos los elementos del formulario
-    for (var i = 0; i < elementosForm.length; i++) {
-      // Si el elemento es un campo de texto o correo electrónico
-      if (elementosForm[i].type === "text" || elementosForm[i].type === "email" || elementosForm[i].name === "message") {
-        // Borra el valor del campo
-        elementosForm[i].value = "";
-      }
-    }
-  });
-</script>
+
 
