@@ -19,14 +19,22 @@ With over a million users who have solved at least one problem, PE is aimed at a
 
 Any reader of this blog should, at a variable rate, be able to solve all the problems, as each problem uncovers a concept needed to solve subsequent problems.
 
+<a><img src="https://i.imgur.com/b8y9chI.png" title="PE's main page" caption="PE's main page" /></a>
+
+Before we start solving, we'll have to register with our email, but it's completely free.
+
+![Register](https://i.imgur.com/txUrJ70.png)
+
+Once inside, we will have access to the 827 problems in the Archives tab. I have solved only a few of them, but I am sure that anybody could do better than me with perseverance. 
+
+![Archive page](https://i.imgur.com/rEFXGSR.png)
+
+I recommend taking a look at the About page, as we will be able to find information about the history, the rules and some tips. In short, we will not be able to publish the solutions to the first 100 problems, since they are introductory and will lay the groundwork for the next (and more difficult) problems.
+Also, as my recommendation, if you ever get stuck, move on to the next one, or take a break. Sometimes, the mind gets blocked and we just can't think, but with a little break we will see everything more clearly.  
 
 
 
 
-
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-**Here is some bold text**
 
 ## Here is a secondary heading
 
