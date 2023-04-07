@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Euler
-subtitle: A web page to improve your mathematical problem solving using programming.
+subtitle: A website to improve your mathematical problem solving using programming.
 tags: [maths,programming]
 thumbnail-img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Leonhard_Euler_2.jpg/200px-Leonhard_Euler_2.jpg"
 comments: true
@@ -32,4 +32,4 @@ Once inside, we will have access to the 827 problems in the Archives tab. I have
 I recommend taking a look at the About page, as we will be able to find information about the history, the rules and some tips. In short, we will not be able to publish the solutions to the first 100 problems, since they are introductory and will lay the groundwork for the next (and more difficult) problems.
 Also, as my recommendation, if you ever get stuck, move on to the next one, or take a break. Sometimes, the mind gets blocked and we just can't think, but with a little break we will see everything more clearly.  
 
-
+In closing, I encourage readers to try and take a look at the problems, and if you like, share your opinions in your comments. See you in the future!
