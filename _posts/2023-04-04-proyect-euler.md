@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Euler
+title: "Project Euler: A Fun Way to Improve Your Math and Programming Skills"
 subtitle: A website to improve your mathematical problem solving using programming.
 tags: [maths,programming]
 thumbnail-img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Leonhard_Euler_2.jpg/200px-Leonhard_Euler_2.jpg"

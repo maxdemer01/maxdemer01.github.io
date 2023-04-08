@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Over The Wire
+title: "Over The Wire: What It Is and Why You Should Try It"
 subtitle: A website to learn and improve your skills in cybersecurity.
 tags: [cybersecurity,programming]
 thumbnail-img: "https://i.imgur.com/hyP3wKy.png"
@@ -8,7 +8,7 @@ comments: true
 social-share: true
 ---
 
-[Over the Wire](https://overthewire.org/wargames/) is an online platform that provides a range of cybersecurity challenges and games for individuals to learn and improve their skills in cybersecurity. The platform offers a variety of challenges of varying difficulty levels, which are designed to help individuals learn the basics of cybersecurity and improve their problem-solving abilities. In this article, we will explore the features and benefits of Over the Wire and how it can be used to enhance cybersecurity knowledge.
+[Over the Wire](https://overthewire.org/wargames/) is an online platform that provides a range of cybersecurity challenges and games for individuals to learn and improve their skills in cybersecurity. The platform offers a variety of challenges of varying difficulty levels, which are designed to help individuals learn the basics of cybersecurity and improve their problem-solving abilities. In this article, we will explore the features and benefits of Over the Wire and how it can be used to enhance cybersecurity knowledge. Moreover, there is no need to registrate. 
 
 ## What is Over the Wire?
 
@@ -34,3 +34,6 @@ The platform offers a range of challenges, including network security, web secur
 ## Conclusion
 
 Over the Wire is an excellent platform for individuals who want to learn and improve their cybersecurity skills. It offers a range of challenges of varying difficulty levels, which are designed to simulate real-world scenarios and improve problem-solving abilities. The platform is free, interactive, and provides feedback and support to individuals who are stuck on a particular challenge. Over the Wire is an excellent tool for career development and preparation for cybersecurity certification exams.
+
+If you are looking for a place to start, I personally recommend the [Bandit games](https://overthewire.org/wargames/bandit/), as it starts very easily using terminal commands on remote machines via ssh. The goal is to escalate permissions until you find the key to the next level. Soon I will upload the walkthroughs of the first levels. Stay tuned!
+
