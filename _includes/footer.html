@@ -16,13 +16,15 @@
         &nbsp;&bull;&nbsp;
       {% endif %}
       {{ site.time | date: '%Y' }}
-
+      
       {% if site.url-pretty %}
         &nbsp;&bull;&nbsp;
         <span class="author-site">
           <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
         </span>
       {% endif %}
+      &nbsp;&bull;&nbsp;
+      <a href="/newsletter">Suscribe to my newsletter</a>
 
       {% if site.matomo %}
         {% if site.matomo.opt-out %}
@@ -36,7 +38,7 @@
         Powered by
         <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
       </p>{% endunless %}
-      </div>
+      
     </div>
   </div>
 </footer>
