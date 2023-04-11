@@ -43,9 +43,6 @@ To subscribe, simply enter your name and email address in the subscription form 
 
 Don't miss any updates from our blog and join our community of subscribers today. Thank you for your support and we hope to see you soon in your inbox!
 
-{: .box-warning}
-If you can't find the confirmation email, check the **spam** section.
 
-<div class="container" style="text-align: center;">
-    <a href="https://maxdemer01updates.hosted.phplist.com/lists/?p=subscribe&id=2" class="myButton">Suscribe!</a>
-</div>
+
+<script async data-uid="9b91aa7c9a" src="https://ismael-contreras.ck.page/9b91aa7c9a/index.js"></script>
