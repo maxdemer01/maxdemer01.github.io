@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Ismael Contreras
+title: ismaelcon
 
 # Your name to show in the footer
 author: Ismael Contreras
@@ -148,7 +148,7 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/path.jpg"
+#navbar-img: "/assets/img/header.svg"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
@@ -258,7 +258,7 @@ date_format: "%B %-d, %Y"
 timezone: "Spain/Madrid"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:title/
 paginate: 5
 
 kramdown:
