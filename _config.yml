@@ -255,7 +255,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "Spain/Madrid"
+timezone: "New York/USA"
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
